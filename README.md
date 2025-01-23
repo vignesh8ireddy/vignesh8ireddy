@@ -5,9 +5,9 @@
 
 - Tech and Tools I've mastered and been using:
 
-| **Programming Languages**                | **Web Technologies**     |      **Cloud**                    | **Databases**                       | **Tools & Industry Knowledge**                          |
+| **Programming Languages**                | **Web Technologies**     |      **Cloud**                    | **Databases**                       | **DevOps & Other Tools**                          |
 |------------------------------------------|------------------------|--------------------|-------------------------------------|------------------------------------|
-| Java 21, JavaScript ES6, Golang, C++, C#, Python, C. | React, Node.js, Angular, TypeScript, Express.js, Spring Boot 3, REST API, Microservices, Spring Security, Jest, Junit, Kafka, Webpack, GraphQL, Tailwind CSS, SASS, Bootstrap. | AWS, Microsoft Azure. | MySQL, Oracle SQL, PostgreSQL, MongoDB.   | Git, Github, Bitbucket, Docker, Kubernetes, Jenkins, JIRA, Postman, CI/CD, NPM, Maven, Figma, Confluence, Sketch, Abstract, Scrum, Agile, Design Patterns.|
+| Java 21, JavaScript ES6, C++, C#, Python, C. | React, Angular, Node.js, TypeScript, Express.js, Spring Boot 3, JPA, REST API (RESTful Webservices), Microservices, Spring Security, Webflux, Apache Kafka, Webpack, GraphQL, Tailwind CSS, SASS, Bootstrap | AWS, Microsoft Azure. | MySQL, Oracle SQL, PostgreSQL, MongoDB, Redis.   | Git, GitHub, Bitbucket, Junit, Mockito, SonarQube, Docker, Kubernetes K8s, AWS ECS, Jenkins, Ansible, Terraform, JIRA, Swagger, Postman, SLF4J, JMeter, CI/CD, NPM, Maven, Gradle, Agile, Scrum, Design Patterns, Eclipse, Intellij, Linux.|
 <hr/>
 <div align="center">
 <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=vignesh8reddy&show_icons=true&locale=en&layout=compact" alt="vignesh8reddy" /></p>
@@ -33,7 +33,8 @@
 <hr/>
 
 <h3 align="left">🌐 Connect with me:</h3>
-<div>
-<p align="left"><h3>Linkedin</h3><a href="https://www.linkedin.com/in/vignesh8reddy/" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vignesh8reddy/" height="30" width="40" /></a>
+<div style="padding-left:50px">
+<a href="https://www.vigneshreddyireddy.com/" target="_blank"><img style="padding-right:10px" align="left" src="https://raw.githubusercontent.com/vignesh8reddy/portfolio/refs/heads/master/src/assets/1737045710040-circle.png" alt="https://www.vigneshreddyireddy.com/" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/vignesh8reddy/" target="_blank"><img style="padding-right:10px" align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vignesh8reddy/" height="28" width="40" /></a>
 </h3>
 </div>
