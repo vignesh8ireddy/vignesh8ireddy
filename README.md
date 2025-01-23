@@ -32,9 +32,9 @@
 </p>
 <hr/>
 
-<h3 align="left">🌐 Connect with me:</h3>
+<h3 align="left"> Connect with me:</h3>
 <div style="padding-left:50px">
-<a href="https://www.vigneshreddyireddy.com/" target="_blank"><img style="padding-right:10px" align="left" src="https://raw.githubusercontent.com/vignesh8reddy/portfolio/refs/heads/master/src/assets/1737045710040-circle.png" alt="https://www.vigneshreddyireddy.com/" height="30" width="30" /></a>
-<a href="https://www.linkedin.com/in/vignesh8reddy/" target="_blank"><img style="padding-right:10px" align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vignesh8reddy/" height="28" width="40" /></a>
+<a href="https://www.vigneshreddyireddy.com/" target="blank"><img style="padding-right:10px" align="left" src="https://raw.githubusercontent.com/vignesh8reddy/portfolio/refs/heads/master/src/assets/1737045710040-circle.png" alt="https://www.vigneshreddyireddy.com/" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/vignesh8reddy/" target="blank"><img style="padding-right:10px" align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vignesh8reddy/" height="28" width="40" /></a>
 </h3>
 </div>
