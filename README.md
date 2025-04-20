@@ -1,5 +1,5 @@
 ![Design and Development](/profileBanner.jpg)
-<h3 align="center">Hi 👋, I'm a Full Stack Software Developer</h3>
+<h3 align="center">I'm a Software Engineer</h3>
 
 - Currently working on projects using **SpringBoot and React**
 
